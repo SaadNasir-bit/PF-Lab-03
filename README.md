@@ -1,5 +1,7 @@
 # PF-Lab-03
-- Level-1 heading (course title)
-- Bold text (name &amp; roll number)
-- Unordered list (lab objectives)
-- Task list (at least 3 completed tasks)
+- Programming Fundamentals CS2001.
+- Saad Nasir 25K-6548
+- Learning basic operations of Github and C language
+- 1)ReadMe.MD created
+  2)ReadMe.MD updated.
+  3)Branch created
